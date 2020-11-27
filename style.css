@@ -1,0 +1,11 @@
+.carousel-inner{
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.logo{
+    position: absolute;
+    top: 300px;
+    height: 150px;
+    left: 550px;
+}
